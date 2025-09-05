@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-djot.svg)](https://badge.fury.io/rb/jekyll-djot)
 
-Jekyll Djot converter that uses [djotter][https://github.com/gustavodiasag/djotter].
+Jekyll Djot converter that uses [djotter](https://github.com/gustavodiasag/djotter).
 
 ## Installation
 
@@ -20,3 +20,7 @@ and the plugin to your `_config.yml`:
 plugins:
   - jekyll-djot
 ```
+
+or install it as:
+
+    $ gem install jekyll-djot
